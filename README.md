@@ -63,8 +63,8 @@
 | 🍲 **NaticoCo** | Location-based food delivery for specific areas | React, Node.js, MongoDB |
 | 📚 **SRM CGPA** | Students can calculate CGPA, track results, upload resumes. Future: AI integration for lecture-based study help | MERN, AI (planned) |
 | 🔁 **Skill Exchange Platform** | Token-based peer learning platform without money usage | MERN, Blockchain |
-| 🏥 **MediPlus** | Blockchain + AI-based health record platform for secure access & management | React, Solidity, IPFS |
-| 🎓 **SRM SCGPA** | Resume builder + CGPA calculator + academic tracker for students | React, Node.js, MongoDB |
+| 🏥 **MediPlus** | Blockchain health record platform for secure access & management | React, Solidity, IPFS |
+| 🎓 **SRM SCGPA** |  CGPA calculator + academic tracker for students | React, Node.js, MongoDB |
 | 🌍 **HandFund** | Decentralized crowdfunding platform using Web3 | Solidity, React, IPFS |
 | 🍕 **Pizza Delivery App** | Food delivery app with real-time ordering, payments & admin dashboard | Flutter, Firebase, Razorpay |
 
