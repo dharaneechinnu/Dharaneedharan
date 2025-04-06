@@ -10,14 +10,17 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year IT student at **SRM University**
+- 🎓 Pre-Final-year IT student at **SRM University**
 - 👨‍💻 Passionate about full stack and decentralized development
 - 🔨 **Currently Building:**
-  - `Crypto Jacking Prevention` - A security-focused Web3 solution to detect and block unauthorized mining
+  - `SRM CGPA` - A security-focused Web3 solution to detect and block unauthorized mining
   - `NaticoCo` - Location-based food delivery app for Bangalore
   - `Skill Exchange Platform` - Users exchange skills without money, using tokens only
+  - `Pizza Delivery App` - Full-stack app with online payment integration and admin dashboard
 - 📚 **Past Projects:**
-  - `SRM CGPA` - A student-friendly platform to calculate CGPA, upload resumes & track results
+  - `SRM SCGPA` - A platform to calculate CGPA, track results & upload resumes
+  - `MediPlus` - Blockchain + AI-based hospital record management platform
+  - `HandFund` - Decentralized crowdfunding platform powered by smart contracts
 - 🌱 Currently Exploring: AI Integration for Education (Lecture-based AI Assistant)
 - 📈 Future Focus: AI + Web3 synergy in EdTech & Healthcare
 
@@ -62,7 +65,10 @@
 | 🍲 **NaticoCo** | Location-based food delivery for specific areas | React, Node.js, MongoDB |
 | 📚 **SRM CGPA** | Students can calculate CGPA, track results, upload resumes. Future: AI integration for lecture-based study help | MERN, AI (planned) |
 | 🔁 **Skill Exchange Platform** | Token-based peer learning platform without money usage | MERN, Blockchain |
-| 🏥 **Mediplus** | Blockchain + AI based health record platform for secure access & management | React, Solidity, IPFS |
+| 🏥 **MediPlus** | Blockchain + AI-based health record platform for secure access & management | React, Solidity, IPFS |
+| 🎓 **SRM SCGPA** | Resume builder + CGPA calculator + academic tracker for students | React, Node.js, MongoDB |
+| 🌍 **HandFund** | Decentralized crowdfunding platform using Web3 | Solidity, React, IPFS |
+| 🍕 **Pizza Delivery App** | Food delivery app with real-time ordering, payments & admin dashboard | Flutter, Firebase, Razorpay |
 
 ---
 
