@@ -31,10 +31,10 @@
   <a href="https://www.linkedin.com/in/dharaneedharan1825" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_.murugesh" target="_blank">
+  <a href="https://www.instagram.com/___dharanee__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/murugesh04/" target="_blank">
+  <a href="https://leetcode.com/u/dharaneedharanchinnusamy/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
